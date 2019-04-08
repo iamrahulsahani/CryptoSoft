@@ -156,7 +156,7 @@ def login_sucess():
 
     # Function to Deccrypt
     def decrypt():
-	openfile()
+        openfile()
         ext = path.split('.')
         ext = str(ext[1])
         f = open('encrypted.' + ext, 'rb')
