@@ -252,7 +252,7 @@ def decpopup():
 # script to open about section
 
 def about():
-    webbrowser.open('readme.txt')
+    webbrowser.open('about.html')
 
 # script to open github link
 
